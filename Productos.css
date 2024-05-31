@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    border-style: dashed;
+    color: #CD1D5E;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin: 40px;
+}
+/*marging:auto*/

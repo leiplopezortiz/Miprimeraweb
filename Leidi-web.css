@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+#titleprincipal{
+    color: #18A75A;
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    font-size: 2em; 
+    color: #CD1D5E;
+    gap: 1.3em;
+}
+.fa-solid{
+    color: #CD1D5E;
+    font-size: 0.5em;
+    justify-items: flex-start;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 1.5em;
+    list-style: none;
+}
+main{
+    display: flex;
+    align-items: center;
+    flex-flow: row;
+}
+div img{
+    width: 20em;
+    border-style:dotted;
+    border-radius: 20em;
+    border-color: #EC4F22;
+    justify-content: space-around;
+    /*revisar espacio entre texto e imagen*/
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    color: #CD1D5E;
+    font-size: 1.2em;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+}
