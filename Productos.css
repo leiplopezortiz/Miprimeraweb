@@ -11,3 +11,23 @@ h1{
     margin: 40px;
 }
 /*marging:auto*/
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 5px;
+    margin: 0.8em;
+}
+img{
+    height: 15em;
+    width: 20em;
+    border-radius: 5em;
+    border-style: solid;
+    border-color: #EC4F22;
+}
+ol{
+    font-size: 2em;
+    text-align: start;
+    color: #FF5757;
+}
+/*ver icono de regreso*/
