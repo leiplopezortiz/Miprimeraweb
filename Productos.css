@@ -30,4 +30,7 @@ ol{
     text-align: start;
     color: #FF5757;
 }
+div:hover{
+    background-color: #fff1ea;
+}
 /*ver icono de regreso*/
