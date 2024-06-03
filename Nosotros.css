@@ -1,10 +1,14 @@
+header{
+    padding: 2em;
+}
 body{
     background-color: rgb(255, 255, 255);
-    font-size: 3em;
+    font-size: 2.1em;
     text-align: center;
 }
 img{
-    height: 11em;
-    width: 8em;
+    height: 10em;
+    width: 9em;
+    border-radius: 2em;
+    border: solid #EC4F22; 
 }
-/*mejorar diseños*/
